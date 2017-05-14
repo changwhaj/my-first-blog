@@ -1,12 +1,3 @@
-h1 a {
-    color: #FCA205;
-    font-family: '맑은 고딕';
-}
-
-body {
-    padding-left: 15px;
-}
-
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -24,7 +15,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: '맑은 고딕', cursive;
+    font-family: 'Timmana', sans-serif;
 }
 
 .date {
@@ -55,3 +46,6 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+.comment {
+    margin: 20px 0px 20px 20px;
+}
